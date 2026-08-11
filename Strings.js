@@ -1,11 +1,11 @@
 console.log("Vishesh" + "Morning")
-
+//string concatenation
 
 let name = "Vishesh";
 let age = 21;
 
 console.log(`My name is ${name} and I am ${age} years old`);
-
+//string interpolation
 
 const newname = new String("Vishesh");
 console.log(newname);
